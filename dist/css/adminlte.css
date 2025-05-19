@@ -30880,7 +30880,7 @@ blockquote.quote-gray-dark h6 {
 }
 
 .bg-gradient-teal {
-  background: #20c997 linear-gradient(180deg, #41d1a7, #20c997) repeat-x !important;
+  background: #670d2e linear-gradient(180deg, #41d1a7, #670d2e) repeat-x !important;
   color: #fff;
 }
 
@@ -30890,13 +30890,13 @@ blockquote.quote-gray-dark h6 {
 }
 
 .bg-gradient-teal.btn:hover {
-  background: #20c997 linear-gradient(180deg, #3db592, #1ba87e) repeat-x !important;
+  background: #670d2e linear-gradient(180deg, #3db592, #1ba87e) repeat-x !important;
   border-color: #199d76;
   color: #ececec;
 }
 
 .bg-gradient-teal.btn:not(:disabled):not(.disabled):active, .bg-gradient-teal.btn:not(:disabled):not(.disabled).active, .bg-gradient-teal.btn:active, .bg-gradient-teal.btn.active {
-  background: #20c997 linear-gradient(180deg, #3bac8b, #199d76) repeat-x !important;
+  background: #670d2e linear-gradient(180deg, #3bac8b, #199d76) repeat-x !important;
   border-color: #17926e;
   color: #fff;
 }
