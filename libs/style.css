@@ -71,7 +71,7 @@ nav.navbar-inverse{
 	float:right;
 }
 .myoutput{
-	border: 3px groove green;
+	border: 3px groove rgb(221, 49, 178);
 	border-radius: 10px;
 	margin:7em 5em 0em 5em;
 }
