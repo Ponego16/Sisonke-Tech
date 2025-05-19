@@ -30,6 +30,10 @@
     #search:focus{
 
     }
+    h4{
+        text-align:center;
+        font-size:2.5em;
+    }
 </style>
 <section class="py-3">
 	<div class="container">
