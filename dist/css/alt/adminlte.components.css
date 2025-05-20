@@ -549,7 +549,7 @@ body.text-sm .input-group-text {
 }
 
 .custom-switch.custom-switch-off-maroon .custom-control-input ~ .custom-control-label::after {
-  background-color: #670d2e;
+  background-color: #200d67;
 }
 
 .custom-switch.custom-switch-on-maroon .custom-control-input:checked ~ .custom-control-label::before {

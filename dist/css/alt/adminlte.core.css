@@ -16307,12 +16307,8 @@ blockquote.quote-gray-dark h6 {
 }
 
 .bg-gradient-teal {
-<<<<<<< HEAD
-  background: #6610f28c linear-gradient(180deg, #dc354563, #f012be54) repeat-x !important;
-=======
-  background: #6610f28c linear-gradient(180deg, #dc354563, #f012be5e) repeat-x !important;
->>>>>>> b7df751809c6e0651273aca0a01afdc69e0f013c
-  color: #fff;
+    background: #6610f28c linear-gradient(180deg, #dc354563, #f012be54) repeat-x !important;
+    color: #fff;
 }
 
 .bg-gradient-teal.btn.disabled, .bg-gradient-teal.btn:disabled, .bg-gradient-teal.btn:not(:disabled):not(.disabled):active, .bg-gradient-teal.btn:not(:disabled):not(.disabled).active,
