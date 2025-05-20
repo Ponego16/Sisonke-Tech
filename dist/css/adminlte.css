@@ -14780,7 +14780,7 @@ body.text-sm .input-group-text {
 }
 
 .custom-switch.custom-switch-off-maroon .custom-control-input ~ .custom-control-label::after {
-  background-color: #670d2e;
+  background-color: #17a2b8;
 }
 
 .custom-switch.custom-switch-on-maroon .custom-control-input:checked ~ .custom-control-label::before {
@@ -30880,7 +30880,7 @@ blockquote.quote-gray-dark h6 {
 }
 
 .bg-gradient-teal {
-  background: #670d2e linear-gradient(180deg, #41d1a7, #670d2e) repeat-x !important;
+  background: #17a2b8 linear-gradient(180deg, #1c67a9, #000) repeat-x !important;
   color: #fff;
 }
 
@@ -30890,13 +30890,13 @@ blockquote.quote-gray-dark h6 {
 }
 
 .bg-gradient-teal.btn:hover {
-  background: #670d2e linear-gradient(180deg, #3db592, #1ba87e) repeat-x !important;
+  background: #17a2b8 linear-gradient(180deg, #3db592, #1ba87e) repeat-x !important;
   border-color: #199d76;
   color: #ececec;
 }
 
 .bg-gradient-teal.btn:not(:disabled):not(.disabled):active, .bg-gradient-teal.btn:not(:disabled):not(.disabled).active, .bg-gradient-teal.btn:active, .bg-gradient-teal.btn.active {
-  background: #670d2e linear-gradient(180deg, #3bac8b, #199d76) repeat-x !important;
+  background: #17a2b8 linear-gradient(180deg, #3bac8b, #199d76) repeat-x !important;
   border-color: #17926e;
   color: #fff;
 }
