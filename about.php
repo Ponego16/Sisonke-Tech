@@ -1,5 +1,5 @@
 <section class="py-5">
-    <div class="container">
+    < class="container">
         < class="card rounded-0">
             <div class="card-body">
             <h1 style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-family: DauphinPlain; font-size: 70px; line-height: 90px; color: rgb(0, 0, 0); text-align: center;">About Us</h1>
@@ -24,6 +24,4 @@
     </p>
   </div>
   </div>
-</div>
-</div>
 </section>
