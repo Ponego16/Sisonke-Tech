@@ -48,12 +48,12 @@
 							<td><?php echo $row['code'] ?></td>
 							<td><?php echo $row['fullname'] ?></td>
 							<td class="text-center">
-                                <?php if($row['status'] == 1): ?>
-                                    <span class="badge badge-success px-3 rounded-pill">Read</span>
-                                <?php else: ?>
-                                    <span class="badge badge-danger px-3 rounded-pill">Unread</span>
-                                <?php endif; ?>
-                            </td>
+							     <select class="form-control form-control-sm status-dropdown" data-id="<?php echo $row['id'] ?>">
+                                    <option value="quoted" <?php echo ($row['status'] == 'quoted') ? 'selected' : '' ?>>Quoted</option>
+                                    <option value="pending" <?php echo ($row['status'] == 'pending') ? 'selected' : '' ?>>Pending</option>
+                                    <option value="completed" <?php echo ($row['status'] == 'completed') ? 'selected' : '' ?>>Completed</option>
+                                 </select>
+                         </td>
 							<td align="center">
 								 <button type="button" class="btn btn-flat p-1 btn-default btn-sm dropdown-toggle dropdown-icon" data-toggle="dropdown">
 				                  		Action
