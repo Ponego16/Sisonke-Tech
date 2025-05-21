@@ -1,6 +1,6 @@
 <section class="py-5">
     <div class="container">
-        <div class="card rounded-0">
+        < class="card rounded-0">
             <div class="card-body">
             <h1 style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-family: DauphinPlain; font-size: 70px; line-height: 90px; color: rgb(0, 0, 0); text-align: center;">About Us</h1>
             <h4 style="margin: 10px 10px 5px; padding: 0px; font-size: 14px; line-height: 18px; text-align: center; font-style: italic; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif;">"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</h4>
@@ -9,7 +9,6 @@
             <div id="bannerL" style="margin: 0px 0px 0px -160px; padding: 0px; position: sticky; top: 20px; width: 160px; height: 10px; float: left; text-align: right;"></div>
             <div id="bannerL" style="margin: 0px 0px 0px -160px; padding: 0px; position: sticky; top: 20px; width: 160px; height: 10px; float: left; text-align: right;"></div>
             <div id="bannerR" style="margin: 0px -160px 0px 0px; padding: 0px; position: sticky; top: 20px; width: 160px; height: 10px; float: right; text-align: left;"></div>
-            < class="boxed" style="margin: 10px 28.7969px; padding: 0px; clear: both;">
   <div id="about-text" style="margin: 0px; padding: 0px; text-align: justify;">
     <p style="margin: 0 0 15px 0; padding: 0;">
       Welcome to our company! We are dedicated to providing exceptional service and innovative solutions that meet the needs of our clients. With a strong focus on quality and customer satisfaction, we strive to exceed expectations in everything we do.
@@ -25,8 +24,6 @@
     </p>
   </div>
   </div>
-</div>
-::after
 </div>
 </div>
 </section>
