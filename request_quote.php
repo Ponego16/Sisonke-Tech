@@ -72,8 +72,8 @@
                         <div class="row">
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                 <div class="form-group">
-                                    <label for="remarks" class="control-label">Remarks <small class="text-muted"><i>(State the other information below.)</i></small> <small class="text-danger">*</small></label>
-                                    <textarea style="resize:none" rows="5" name="remarks" id="remarks" class="form-control form-control-sm rounded-0" required></textarea>
+                                    <label for="remarks" class="control-label">Remarks <small class="text-muted"><i>(State the other information below.)</i></small></label>
+                                    <textarea style="resize:none" rows="5" name="remarks" id="remarks" class="form-control form-control-sm rounded-0" ></textarea>
                                 </div>
                             </div>
                         </div>
